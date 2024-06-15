@@ -17,7 +17,7 @@ You’ll create an application that provides the time of day and then build it w
 ## Set up the project
 First you’ll need to setup a Java project for Maven to build. To keep the focus on Maven, make the project as simple as possible for now.
 
-#### Create the directory structure
+####  iam updating this file. Create the directory structure
 ---
 + Create a root project directory named `HelloWorldMaven` and `cd HelloWorldMaven`.
 + In a project directory of your choosing, create the following subdirectory structure.
