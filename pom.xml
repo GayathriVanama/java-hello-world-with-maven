@@ -21,7 +21,7 @@
                <version>2.2</version>
            </dependency>
        </dependencies>
-       <!-- end::joda[]updated the file for webhook. -->
+       <!-- end::joda[]updated this file for webhook.-->
        
     <build>
         <plugins>
